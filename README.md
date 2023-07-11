@@ -1,4 +1,4 @@
-# DSS_for_ranking_GitHub_repositories
+# DSS for ranking GitHub repositories
 
 Wellcome on the web-page of our project called Design Support System for ranking GitHub repositories.
 
