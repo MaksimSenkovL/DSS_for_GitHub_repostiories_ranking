@@ -4,5 +4,5 @@ Wellcome on the web-page of our project called Design Support System for ranking
 
 The project is frozen.
 
-Main contributor: *Senkov Maksim*.
+Main contributor: *Senkov Maksim*.  
 Advisor and minor contributor: *Vladimir Parkhomenko*.
